@@ -1,3 +1,5 @@
+# Its a simple visual representation of how your computer sorts things using bubble sort
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
